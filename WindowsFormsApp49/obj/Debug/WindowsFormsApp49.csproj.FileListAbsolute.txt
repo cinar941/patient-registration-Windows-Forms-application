@@ -1,0 +1,13 @@
+C:\Users\Mehmet\source\repos\WindowsFormsApp49\bin\Debug\WindowsFormsApp49.exe.config
+C:\Users\Mehmet\source\repos\WindowsFormsApp49\bin\Debug\WindowsFormsApp49.exe
+C:\Users\Mehmet\source\repos\WindowsFormsApp49\bin\Debug\WindowsFormsApp49.pdb
+C:\Users\Mehmet\source\repos\WindowsFormsApp49\obj\Debug\WindowsFormsApp49.csprojAssemblyReference.cache
+C:\Users\Mehmet\source\repos\WindowsFormsApp49\obj\Debug\WindowsFormsApp49.Form1.resources
+C:\Users\Mehmet\source\repos\WindowsFormsApp49\obj\Debug\WindowsFormsApp49.Properties.Resources.resources
+C:\Users\Mehmet\source\repos\WindowsFormsApp49\obj\Debug\WindowsFormsApp49.csproj.GenerateResource.cache
+C:\Users\Mehmet\source\repos\WindowsFormsApp49\obj\Debug\WindowsFormsApp49.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\source\repos\WindowsFormsApp49\obj\Debug\WindowsFormsApp49.exe
+C:\Users\Mehmet\source\repos\WindowsFormsApp49\obj\Debug\WindowsFormsApp49.pdb
+C:\Users\Mehmet\source\repos\WindowsFormsApp49\obj\Debug\WindowsFormsApp49.Form2.resources
+C:\Users\Mehmet\source\repos\WindowsFormsApp49\obj\Debug\WindowsFormsApp49.Form3.resources
+C:\Users\Mehmet\source\repos\WindowsFormsApp49\obj\Debug\WindowsFormsApp49.Form4.resources
